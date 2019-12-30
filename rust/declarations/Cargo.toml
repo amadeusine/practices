@@ -1,0 +1,9 @@
+[package]
+name = "declarations"
+version = "0.1.0"
+authors = ["Samuel Lim <39858145+amadeusine@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
